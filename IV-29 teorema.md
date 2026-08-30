@@ -1,0 +1,6 @@
+# IV-29 teorema
+
+Joks atskiras daiktas, kurio prigimtis visiškai skirtinga nuo mūsų prigimties, mūsų veikimo galios negali nei palaikyti, nei suvaržyti, ir apskritai joks daiktas negali būti mums geras arba blogas, jei jis su mumis neturi ko nors bendro.
+
+## Įrodymas
+Kiekvieno atskiro daikto, taigi ir (pagal [[II-10 teorema|II d. 10 teor.]] pr.) žmogaus, galią egzistuoti ir veikti determinuoja tik kitas atskiras daiktas (pagal [[I-28 teorema|I d. 28 teor.]]), kurio prigimtį (pagal [[II-6 teorema|II d. 6 teor.]]) reikia suprasti iš to paties atributo, iš kurio suvokiama žmogaus prigimtis. Tad mūsų veikimo galią, kad ir kaip ji būtų suvokiama, gali determinuoti, taigi palaikyti arba suvaržyti, galia tokio kito atskiro daikto, kuris turi su mumis ką nors bendra, o ne tokio, kurio prigimtis visiškai skirtinga nuo mūsų prigimties. O kadangi gėriu arba blogiu vadiname tai, kas (pagal [[IV-8 teorema|šios d. 8 teor.]]) yra džiaugsmo arba sielvarto priežastis, t.y. (pagal [[III-11 teorema|III d. 11 teor.]] past.) kas mūsų veikimo galią didina arba mažina, palaiko arba suvaržo, tai daiktas, kurio prigimtis visiškai skirtinga nuo mūsų prigimties, negali būti mums nei geras, nei blogas. Tai ir reikėjo įrodyti.
