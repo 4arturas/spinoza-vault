@@ -1,0 +1,18 @@
+---
+title: "IV-59 teorema"
+---
+
+# IV-59 teorema
+
+Visiems veiksmams, kuriems mus determinuoja emocija, kuri yra pasyvi būsena, mus ir be emocijos gali determinuoti protas.
+
+## Įrodymas
+Protingai veikti yra ne kas kita, kaip (pagal [[III-3 teorema|III d. 3 teor.]] ir [[III-2 apibrėžimas|2 apibr.]]) daryti tai, kas išplaukia iš mūsų prigimties, paimtos pačios savaime, būtinumo. O sielvartas tiek blogas, kiek (pagal [[IV-41 teorema|šios d. 41 teor.]]) šią veikimo galią mažina arba suvaržo. Vadinasi, šios emocijos mes negalime būti determinuoti jokiam veiksmui, kurio negalėtume atlikti vadovaudamiesi protu. Be to, džiaugsmas būna blogas tik tiek, kiek jis žmogui kliudo gebėti veikti (pagal [[IV-41 teorema|šios d. 41]] ir [[IV-43 teorema|43 teor.]]). O todėl šiuo atžvilgiu taip pat negalime būti determinuoti jokiam veiksmui, kurio negalėtume atlikti vadovaudamiesi protu. Pagaliau, kiek džiaugsmas būna geras, tiek jis dera su protu (nes jį sudaro tai, kad žmogaus veikimo galia padidėja arba yra palaikoma); ir jis yra pasyvi būsena tik tiek, kiek žmogaus veikimo galia neišauga tiek, kad jis adekvačiai suvoktų save ir savo poelgius (pagal [[III-3 teorema|III d. 3 teor.]] ir jos past.). Todėl jei džiaugsmo apimtas žmogus pasidarytų toks tobulas, kad adekvačiai suvoktų save ir savo veiksmus, tai netgi labiau gebėtų atlikti tuos veiksmus, kuriuos jis geba atlikti jau vien determinuotas emocijų, kurios yra pasyvios būsenos. Bet visos emocijos susijusios su džiaugsmu, sielvartu arba troškimu (žr. [[III-4 emocijų apibrėžimas|emocijų 4 apibr.]] paaišk.), o troškimas (pagal [[III-1 emocijų apibrėžimas|emocijų 1 apibr.]]) yra ne kas kita, kaip pats siekimas veikti. Vadinasi, visiems veiksmams, kuriems mus determinuoja emocija, kuri yra pasyvi būsena, mus ir be emocijos gali determinuoti vien tik protas. Tai ir reikėjo įrodyti.
+
+## Kitas įrodymas
+Kiekvienas veiksmas blogu vadinamas tiek, kiek jis kyla dėl to, kad esame apimti neapykantos arba kurios nors kitos blogos emocijos (žr. [[IV-45 teorema|šios d. 45 teor.]] pr.). Tačiau joks veiksmas, imamas pats savaime, nėra nei geras, nei blogas (tai parodėme šios dalies pratarmėje), bet vienas ir tas pats poelgis būna tai geras, tai blogas. Vadinasi, tam pačiam veiksmui, kuris kartais būna blogas, arba kyla iš kurios nors blogos emocijos, mus gali skatinti protas (pagal [[IV-19 teorema|šios d. 19 teor.]]). Tai ir reikėjo įrodyti.
+
+## Pastaba
+Pavyzdys tai paaiškins suprantamiau. Antai smogimo veiksmas, imamas fiziškai ir kai žiūrime tik to, kad žmogus pakelia ranką, suspaudžia kumštį ir visą ranką su jėga nuleidžia žemyn, yra gebėjimas, suvokiamas iš žmogaus kūno sandaros. Tad jei pykčio ar neapykantos skatinamas žmogus save determinuoja suspausti kumštį arba pakelti ranką, tai, kaip parodėme antroje dalyje, šitai įvyksta dėl to, kad vienas ir tas pats veiksmas gali būti susietas su bet kurių daiktų vaizdais. O todėl daiktų – tiek neaiškiai, tiek aiškiai ir tiksliai suvokiamų – vaizdai mus gali determinuoti vienam ir tam pačiam veiksmui. Tad pasirodo, kad kiekvienas iš emocijos, kuri yra pasyvi būsena, kylantis troškimas neturėtų jokios vertės, jei žmonės galėtų vadovautis protu.
+
+Dabar matome, kodėl iš emocijos, kuri yra pasyvi būsena, kylantį troškimą pavadinome aklu.

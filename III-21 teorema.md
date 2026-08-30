@@ -1,7 +1,0 @@
-# III-21 teorema
-
-Kas įsivaizduoja, kad jo mylimą objektą apėmė džiaugsmas ar sielvartas, tas ir pats džiaugsis arba sielvartaus, ir kiekviena iš šių mylinčiojo emocijų bus tuo stipresnė arba silpnesnė, kuo ją stipresnę arba silpnesnę patiria mylimas objektas.
-
-## Įrodymas
-
-Daiktų (kaip įrodėme [[III-19 teorema|šios d. 19 teor.]]), numatančių mylimo objekto egzistavimą, vaizdai palaiko sielos siekimą įsivaizduoti mylimą objektą. Bet džiaugsmas, kadangi jis (pagal [[III-11 teorema|šios d. 11 teor. past.]]) yra perėjimas į didesnį tobulumą, numato besidžiaugiančiojo egzistavimą, ir tuo labiau, kuo džiaugsmo emocija stipresnė. Vadinasi, mylimo objekto džiaugsmo vaizdas palaiko mylinčiojo sielos siekimą, t.y. (pagal [[III-11 teorema|šios d. 11 teor. past.]]) teikia mylinčiajam džiaugsmą, ir tuo labiau, kuo stipresnė buvo ši mylimo objekto emocija. Tai pirma. Be to, kiek kas nors teikia sielvartą, tiek jis susinaikina, ir tuo labiau, kuo didesnis teikiamas sielvartas (pagal [[III-11 teorema|11 teor. tą pačią past.]]). O todėl (pagal [[III-19 teorema|19 teor.]]) kas įsivaizduoja, kad jo mylimą objektą apėmė sielvartas, tas ir pats sielvartaus, ir tuo labiau, kuo buvo stipresnė ši mylimo objekto emocija. Tai ir reikėjo įrodyti.

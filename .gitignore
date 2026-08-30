@@ -1,3 +1,21 @@
-Benediktas_Spinoza_Etika.pdf
-.idea/
+# Obsidian
+.obsidian/
 *.iml
+.idea/
+Benediktas_Spinoza_Etika.pdf
+
+# Quartz
+node_modules/
+public/
+.quartz-cache/
+.quartz/
+quartz/cli/tui/dist/
+.turbo/
+prof
+tsconfig.tsbuildinfo
+private/
+.replit
+replit.nix
+
+# OS
+.DS_Store

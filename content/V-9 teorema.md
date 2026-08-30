@@ -1,0 +1,10 @@
+---
+title: "V-9 teorema"
+---
+
+# V-9 teorema
+
+Emocija, priklausanti nuo daugelio skirtingų priežasčių, kurias siela apmąsto kartu su pačia emocija, yra mažiau žalinga ir mažiau mus apima, ir mažiau išgyvename emociją, priklausančią nuo kiekvienos atskiros jos priežasties, negu tada, jei tai būtų kita vienodo stiprumo emocija, priklausanti tik nuo vienos arba nuo nedaugelio priežasčių.
+
+## Įrodymas
+Emocija būna bloga arba žalinga tik tiek, kiek ji kliudo sielos galiai mąstyti (pagal [[IV-26 teorema|IV d. 26]] ir [[IV-27 teorema|27 teor.]]). Todėl ta emocija, kuri sielą determinuoja vienu metu mąstyti apie daug objektų, yra mažiau žalinga negu kita vienodo stiprumo emocija, bet sielą taip patraukianti mąstyti tik apie vieną arba keletą objektų, kad ji jau nepajėgi mąstyti apie kitus objektus. Tai pirma. Be to, kadangi sielos esmę, t.y. (pagal [[III-7 teorema|III d. 7 teor.]]) jos galią, sudaro vien tik mąstymas (pagal [[II-11 teorema|II d. 11 teor.]]), tai siela emociją, ją determinuojančią vienu metu mąstyti apie daug objektų, išgyvena mažiau negu vienodo stiprumo emociją, ją verčiančią mąstyti tik apie vieną arba keletą objektų. Tai antra. Pagaliau, ši emocija (pagal [[III-48 teorema|III d. 48 teor.]]), priklausydama nuo daugelio išorinių priežasčių, kiekvienos iš jų atžvilgiu bus silpnesnė. Tai ir reikėjo įrodyti.

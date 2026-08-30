@@ -1,0 +1,17 @@
+---
+title: "II-43 teorema"
+---
+
+# II-43 teorema
+
+Kas turi teisingą idėją, tas kartu žino, kad turi teisingą idėją, ir dalyko teisingumu negali abejoti.
+
+## Įrodymas
+Mūsų teisinga idėja – ta, kuri adekvati Dieve, kiek jį išreiškia žmogaus sielos prigimtis (pagal [[II-11 teorema|šios d. 11 teor. pr.]]). Tad tarkime, kad Dieve, kiek jį išreiškia žmogaus sielos prigimtis, yra adekvati idėja A.
+
+Dieve būtinai turi būti taip pat šios idėjos idėja, priklausanti Dievui lygiai taip pat, kaip idėja A (pagal [[II-20 teorema|šios d. 20 teor.]], kurios įrodymas visuotinis). Tariama, kad idėja A priklauso Dievui, kiek jį išreiškia žmogaus sielos prigimtis, vadinasi, idėjos A idėja taip pat turi tuo pačiu būdu priklausyti Dievui, t.y. (pagal tą patį 11 teor. pr.) ši adekvati idėjos A idėja bus pačioje sieloje, turinčioje adekvačią idėją A. Taigi kas turi adekvačią idėją, kitaip tariant (pagal [[II-34 teorema|šios d. 34 teor.]]), kas dalyką pažįsta teisingai, tas privalo kartu turėti savo pažinimo adekvačią idėją, arba savo pažinimą teisingai pažinti, t.y. (tai savaime akivaizdu) privalo kartu būti tikras. Tai ir reikėjo įrodyti.
+
+## Pastaba
+[[II-21 teorema|Šios dalies 21 teoremos]] pastaboje aš paaiškinau, kas yra idėjos idėja. Bet reikia pažymėti, kad ankstesnė teorema pakankamai aiški savaime. Juk kiekvienas, turintis teisingą idėją, žino, kad teisingoje idėjoje glūdi didžiausias tikrumas, nes turėti teisingą idėją reiškia ne ką kita, kaip pažinti daiktą tobulai, t.y. kuo geriausiai. Žinoma, šituo niekas negali abejoti, nebent manytų, kad idėja yra kažkas nebylu, lyg piešinys lentoje, o ne mąstymo modusas, būtent pats supratimas. Ir kas, klausiu, gali žinoti, kad jis kurį nors dalyką supranta, jei anksčiau dalyko jau nesuprato, t.y. kas gali žinoti, kad yra tikras dėl kurio nors dalyko, jei anksčiau jau nebuvo dėl to dalyko tikras? Pagaliau, kas gali būti aiškiau ir tikriau už teisingą idėją kaip tiesos normą? Iš tiesų kaip šviesa atskleidžia pati save ir tamsą, taip tiesa yra ir pačios savęs, ir klaidingumo norma.
+
+Manau, kad tuo aš atsakiau į šiuos klausimus. Būtent: jei teisinga idėja skiriasi nuo klaidingos tik kiek ji, kaip sakoma, atitinka savo objektą, tai ar teisinga idėja pranoksta klaidingą kokiu nors realumu ar tobulumu (juk jos skiriasi tik išoriniu požymiu), taigi ar teisingas idėjas turintis žmogus kuo nors pranoksta tą, kurio idėjos vien klaidingos? Be to, dėl ko atsitinka taip, kad žmonių idėjos būna klaidingos? Ir pagaliau kaip kas nors gali tikrai žinoti, kad jo idėjos atitinka savo objektus? Aš sakau: manau, kad į šiuos klausimus jau atsakiau. Juk dėl skirtumo tarp teisingos ir klaidingos idėjos, tai iš [[II-35 teorema|šios dalies 35 teoremos]] žinoma, kad pirmosios santykis su antrąja toks pat, kaip būties santykis su nebūtimi. O klaidingumo priežastis aiškiausiai parodžiau 19–35 teoremose ir pastarosios priede. Iš to taip pat aiškus ir teisingas idėjas turinčio žmogaus skirtumas nuo to, kurio idėjos klaidingos. Galiausiai dėl paskutinio klausimo, būtent iš kur žmogus gali žinoti, kad jo idėja atitinka savo objektą, tai aš ką tik daugiau negu pakankamai parodžiau, jog tai kyla tik iš to, kad jo idėja atitinka savo objektą, kitaip tariant, kad tiesa yra norma pačiai sau. Čia reikia pridurti, kad mūsų siela, kiek ji daiktus teisingai suvokia, yra Dievo begalinio intelekto dalis (pagal [[II-11 teorema|šios d. 11 teor. pr.]]), ir todėl būtina, kad mūsų sielos aiškios ir tikslios idėjos būtų teisingos, kaip ir Dievo idėjos.

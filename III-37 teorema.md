@@ -1,7 +1,0 @@
-# III-37 teorema
-
-Iš sielvarto arba džiaugsmo, neapykantos arba meilės kylantis troškimas tuo stipresnis, kuo stipresnės šios emocijos.
-
-## Įrodymas
-
-Sielvartas žmogaus veikimo galią (pagal [[III-11 teorema|šios d. 11 teor. past.]]) mažina arba suvaržo, t.y. (pagal [[III-7 teorema|šios d. 7 teor.]]) mažina arba suvaržo žmogaus siekimą išsaugoti savo būtį, o todėl (pagal [[III-5 teorema|šios d. 5 teor.]]) jis priešingas šiam siekimui. Sielvartą patyrusio žmogaus siekimas – atsikratyti sielvarto. Bet (pagal sielvarto apibrėžimą) kuo sielvartas didesnis, tuo didesnė žmogaus veikimo galios dalis būtinai jam priešinasi; vadinasi, kuo sielvartas didesnis, tuo su didesne veikimo galia žmogus sieks jo atsikratyti, t.y. (pagal [[III-9 teorema|šios d. 9 teor. past.]]) su tuo stipresniu troškimu ar potraukiu sieks jo atsikratyti. Be to, kadangi džiaugsmas (pagal [[III-11 teorema|šios d. 11 teor. ir tą pačią past.]]) žmogaus veikimo galią didina arba palaiko, tai tuo pačiu būdu lengvai įrodoma, kad džiaugsmo apimtas žmogus netrokšta nieko kito, tik išsaugoti džiaugsmą, ir šis jo troškimas bus tuo stipresnis, kuo didesnis džiaugsmas. Pagaliau, kadangi neapykantą ir meilę sudaro pačios džiaugsmo arba sielvarto emocijos, tai lygiai taip pat išplaukia, kad siekimas, potraukis arba troškimas, kylantys iš neapykantos arba meilės, savo stiprumu atitiks neapykantą arba meilę. Tai ir reikėjo įrodyti.

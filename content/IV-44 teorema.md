@@ -1,0 +1,13 @@
+---
+title: "IV-44 teorema"
+---
+
+# IV-44 teorema
+
+Galimas meilės ir troškimo perteklius.
+
+## Įrodymas
+Meilė (pagal [[III-6 emocijų apibrėžimas|emocijų 6 apibr.]]) yra džiaugsmas, lydimas išorinės priežasties idėjos. Tad malonumas (pagal [[III-11 teorema|III d. 11 teor.]] past.), lydimas išorinės priežasties idėjos, yra meilė, o todėl (pagal [[IV-43 teorema|43 teor.]]) galimas meilės perteklius. Be to, troškimas tuo stipresnis, kuo stipresnė emocija, iš kurios jis kyla (pagal [[III-37 teorema|III d. 37 teor.]]). Todėl kaip emocija (pagal [[IV-6 teorema|šios d. 6 teor.]]) gali pranokti kitus žmogaus veiksmus, taip iš tos emocijos kylantis troškimas gali pranokti kitus troškimus, ir dėl to galimas troškimo perteklius, kaip gali būti ir malonumo perteklius, kaip parodėme ankstesnėje teoremoje. Tai ir reikėjo įrodyti.
+
+## Pastaba
+Linksmumą, kurį pavadinau geru dalyku, lengviau įsivaizduoti negu stebėti. Juk emocijos, kurios kasdien mus užgriūva, daugiausia susijusios su kuria nors kūno dalimi, kuri paveikiama labiau už kitas. Dėl to emocijos dažniausiai būna nesaikingos ir sielą taip patraukia stebėti tik vieną objektą, kad ji nepajėgia mąstyti apie kitus. Ir nors žmonės pasiduoda daugeliui emocijų, o todėl retai pasitaiko, kad žmogų nuolat kankintų viena ir ta pati emocija, vis dėlto netrūksta tokių, kurie atkakliai pasiduoda vienai ir tai pačiai emocijai. Juk matome, jog kartais vienas objektas žmones taip paveikia, kad nors jo dabar ir nėra, vis dėlto jie tiki jį akivaizdžiai esant; ir kai taip atsitinka nemiegančiam žmogui, tai sakome, kad jis kliedi arba pamišęs. Ne mažiau pamišusiais laikomi ir tie, kurie, degdami meile, dieną ir naktį kliedi apie savo mylimąją arba sugulovę; paprastai jie pajuokiami. Bet kai šykštuolis negalvoja apie nieką kitą, tik apie pelną ir pinigus, o garbėtroška – tik apie šlovę ir t.t., tai nemanoma, jog jie pamišėliai, nes jie paprastai mums atgrasūs ir laikomi vertais neapykantos. Tačiau iš tikrųjų šykštumas, garbės troškimas, paleistuvystė ir t.t. yra pamišimo rūšys, nors prie ligų ir nepriskiriamos.
